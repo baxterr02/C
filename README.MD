@@ -1,7 +1,3 @@
-
-
-Here is a sample README file for a GitHub repository where you practice C programming:
-
 **C Programming Practice Repository**
 =====================================
 
